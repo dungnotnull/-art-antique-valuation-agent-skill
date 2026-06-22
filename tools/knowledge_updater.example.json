@@ -1,0 +1,26 @@
+﻿{
+  "brain_path": "../SECOND-KNOWLEDGE-BRAIN.md",
+  "arxiv_categories": ["econ.GN", "cs.CY", "stat.AP"],
+  "domain_sources": [
+    {"name": "Heritage Auctions", "url": "https://www.ha.com/"},
+    {"name": "Christie's Results", "url": "https://www.christies.com/en/results"},
+    {"name": "Art Loss Register", "url": "https://www.artloss.com/"},
+    {"name": "PSA Price Guide", "url": "https://www.psacard.com/priceguide"},
+    {"name": "Getty Provenance Index", "url": "https://www.getty.edu/research/tools/provenance/"}
+  ],
+  "search_queries": [
+    "auction price index fine art 2026",
+    "trading card grading population report trends",
+    "provenance research methodology cultural property",
+    "art market liquidity downturn report"
+  ],
+  "relevance_keywords": [
+    "auction price index fine art 2026",
+    "trading card grading population report trends",
+    "provenance research methodology cultural property",
+    "art market liquidity downturn report"
+  ],
+  "min_relevance": 0.05,
+  "max_age_days": 365,
+  "request_timeout": 25
+}

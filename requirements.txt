@@ -1,0 +1,8 @@
+﻿# Core dependencies for art-antique-valuation knowledge pipeline.
+# Install with: python -m pip install -r requirements.txt
+
+# Optional but recommended for richer page extraction.
+crawl4ai>=0.4.0
+
+# Optional search backends (set API keys in environment).
+# No additional Python package needed for SerpApi or Bing REST APIs.
